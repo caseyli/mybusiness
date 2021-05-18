@@ -11,7 +11,7 @@ gem 'uglifier', '>= 1.0.3'
 gem 'responders', '~> 2.0'
 
 gem 'pg', '~> 0.18'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 gem 'newrelic_rpm'
 gem 'mini_magick'
 gem 'redcarpet'
